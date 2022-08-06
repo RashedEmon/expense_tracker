@@ -16,5 +16,5 @@
 <ul>
   <li>Phone: +8801745551363</li>
   <li>Email: rashedul.swe@gmail.com</li>
-  <li>Facebook: <a target="_blank" href="http://www.facebook.com/rdswe">facebook account</a></li>
+  <li><a target="_blank" href="https://www.facebook.com/rdswe">Facebook</a></li>
 </ul>
